@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the author preprint if you use the paper, and cite the Zenodo replication-package DOI when using the archived data or scripts."
 type: article
 title: "Knowledge-Aligned Architecture for LLM Coding Agents: An Industrial Experience Report"
+url: "https://github.com/shadowsong91/kaap-paper"
 authors:
   - family-names: "Zhou"
     given-names: "Mo"
