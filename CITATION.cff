@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the author preprint if you use the paper, and cite the Zenodo replication-package DOI when using the archived data or scripts."
+type: article
+title: "Knowledge-Aligned Architecture for LLM Coding Agents: An Industrial Experience Report"
+authors:
+  - family-names: "Zhou"
+    given-names: "Mo"
+    affiliation: "Kuaishou Technology"
+version: "3.21"
+date-released: 2026-11-24
+references:
+  - type: dataset
+    title: "KAAP industrial experience report: replication package"
+    authors:
+      - family-names: "Zhou"
+        given-names: "Mo"
+        affiliation: "Kuaishou Technology"
+    version: "1.0.0"
+    doi: "10.5281/zenodo.24157719"
